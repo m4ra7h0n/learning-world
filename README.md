@@ -66,6 +66,7 @@ https://www.aliyundrive.com/s/We9XocAeUVF
     - 南怀瑾选集第10卷+原本大学微言.txt
     - 原本大学微言.txt
   - [ ] 李威记忆课
+  - [ ] 黄执中说服课
 - [ ] 卫生综合教材
   - 环境卫生学（第8版）.pdf
   - 流行病学（第8版）.pdf
